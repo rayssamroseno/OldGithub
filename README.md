@@ -77,6 +77,6 @@ Psychological support for STEM students created by GitHub Classroom by Rayssa M.
 
 ## Sobre Rayssa M. Roseno / About Rayssa M. Roseno
 
-- **GitHub old Profile:** [RayssaRoseno](https://github.com/RayssaRoseno)
+- **GitHub Old Profile:** [RayssaRoseno](https://github.com/RayssaRoseno)
 - **Bio:** Computer Science - IC/UFAL | Software Developer | FullStack | Python | Tensorflow | Flutter.
 - **Pronouns:** she/her

@@ -69,9 +69,9 @@ Programa em R que expõe pontos analíticos através de gráficos sobre o Covid-
 R program that presents analytical points through graphs about Covid-19 in Alagoas based on the database provided by the state.
 
 ### [SuportePsicologicoUniversitario](https://github.com/RayssaRoseno/SuportePsicologicoUniversitario)
-Suporte psicológico para alunos de exatas criado pelo GitHub Classroom por Rayssa M. Roseno e Eduardo Brasil.
+Suporte psicológico para alunos de exatas criado pelo GitHub Classroom.
 
-Psychological support for STEM students created by GitHub Classroom by Rayssa M. Roseno and Eduardo Brasil.
+Psychological support for STEM students created by GitHub Classroom.
 
 ---
 

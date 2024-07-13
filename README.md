@@ -33,12 +33,7 @@ Modelagem da Sala de Convivência do IC-UFAL.
 
 Modeling of the IC-UFAL Lounge.
 
-### [ROBOTICA-IA-NVIDIA](https://github.com/RayssaRoseno/ROBOTICA-IA-NVIDIA) Public
-Projeto de robótica e inteligência artificial com NVIDIA.
-
-Robotics and artificial intelligence project with NVIDIA.
-
-### [compilador](https://github.com/RayssaRoseno/compilador) Public
+### [Compilador](https://github.com/RayssaRoseno/compilador) Public
 Projeto de compilador.
 
 Compiler project.
